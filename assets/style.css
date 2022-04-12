@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Rubik', sans-serif;
+    /*background-image: url(../images/gerador-de-link-de-whatsapp-background.webp);*/
+    background-image: url(../images/bg-main.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    /* background-attachment: fixed; */
+    text-align: center;
+
+
+}
+
+.container {
+    max-width: 40%;
+    margin-top: 21%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Oswald', sans-serif;
+    color: #ffffff;
+    text-shadow: #00000082 2px 1px 1px 1px;
+
+}
+
+.bg-black {
+    background-color: black;
+    background-size: cover;
+}
+
+span {
+    font-size: 2rem;
+    font-weight: 100;
+    color: #ffffff;
+}
+
+li {
+    list-style: none;
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+
+button.btn.btn-outline-primary.btn-lg {
+    color: #ffffff;
+    background-color: #597d79a5;
+    font-weight: 500;
+    border: 3px solid #bebebe;
+    border-radius: 50px;
+    text-transform: uppercase;
+    padding: 15px 45px;
+    box-shadow: 1px 2px 18px 2px #0000003d;
+}
+
+button.btn.btn-outline-primary.btn-lg.btn-custom-color {
+    color: #ffffff;
+    background-color: #594d72b5;
+    font-weight: 500;
+    border: 3px solid #bebebe;
+    border-radius: 50px;
+    text-transform: uppercase;
+    padding: 15px 45px;
+    box-shadow: 1px 2px 18px 2px #0000003d;
+}
+
+button.btn.btn-outline-primary.btn-lg:hover {
+    color: #ffffff;
+    background-color: #597d79a5;
+    font-weight: 600;
+    border: 3px solid #bebebe;
+    text-transform: uppercase;
+    padding: 15px 45px;
+    box-shadow: 1px 2px 18px 2px #0000003d;
+}
+
+
+button.btn.btn-primary.btn-lg {
+
+    color: #ffffff;
+    background-color: #597d79a5;
+    font-weight: 600;
+    border: 3px solid #bebebe;
+    text-transform: uppercase;
+    padding: 15px 45px;
+
+}
+
+
+button.btn.btn-outline-primary.btn-lg:hover {
+    color: #ffffff;
+    background-color: #597d79;
+    font-weight: 600;
+    border: 3px solid #bebebe;
+    text-transform: uppercase;
+    padding: 15px 45px;
+    box-shadow: 1px 2px 18px 2px #0000003d;
+}
+
+.logo {
+    margin: 10px 0;
+}
+
+.title {
+    margin: 40px 0;
+}
+
+.title h1 {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 3rem;
+    font-weight: 900;
+    text-shadow: #0000003d 1px 1px 1px;
+}
+
+.youtube {
+    margin: 40px 0;
+    padding: 0 10px;
+}
+
+.enviar {
+    margin: 10px 0;
+    text-align: center;
+}
+
+.como-funciona {
+    margin: 40px 0;
+}
+
+h3.como-funciona__title {
+    margin-top: 10%;
+    font-size: 2.5rem;
+}
+
+small {
+    font-size: 1rem;
+    line-height: 1rem;
+    color: #ffffff;
+    text-align: center;
+}
+
+.venda-mais {
+    text-align: center;
+}
+
+.copy {
+    text-align: center;
+}
+
+.link-gerado {
+    border: 1px solid #eee;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 40px 0;
+}
+
+img.icon-ok {
+    max-width: 3rem;
+}
+
+img.icone-link {
+    max-width: 2rem;
+    margin-right: 10px;
+}
+
+span.link {
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+}
+
+.link-mensagem {
+    margin: 40px 0;
+}
+
+input#linkcopiar {
+    border: none;
+    width: 100%;
+}
+
+.form-control {
+    background-color: #00000073;
+    border: 1px solid #bebebe;
+    border-radius: 50px;
+    padding: 1rem 1rem;
+    color: #ffffff;
+}
+
+.formulario {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /*align-items: center;*/
+}
+
+
+
+@media screen and (max-width: 600px) {
+    body {
+        background-color: #42524f;
+        color: Pink;
+        background-image: url(/images/bg-main-mobile.jpg);
+        background-size: contain;
+    }
+
+    .container {
+        max-width: 90%;
+    }
+
+    .title h1 {
+        color: #ffffff;
+        text-transform: uppercase;
+        font-size: 2rem;
+        font-weight: 900;
+        text-shadow: #0000003d 1px 1px 1px;
+    }
+
+}
