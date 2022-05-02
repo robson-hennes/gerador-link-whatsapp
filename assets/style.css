@@ -13,6 +13,13 @@ body {
 
 }
 
+input[type="telefone"]::-webkit-input-placeholder {
+  color: orange;
+}
+
+::-moz-placeholder {
+  opacity: 1;
+}
 
 
 h1,
@@ -30,7 +37,7 @@ h6 {
 b {
     font-family: 'Akshar', sans-serif;
     font-size: 2.5rem;
-    color: #ffffff;
+    color: #000;
     font-weight: bold;
     text-shadow: #00000082 2p 1px 1px 1px;
 
@@ -95,6 +102,7 @@ button.btn.btn-primary.btn-lg {
     font-weight: 600;
     font-family: 'Askhar', sans-serif;
     border: 3px solid #bebebe;
+    border-radius: 50px;
     text-transform: uppercase;
     padding: 10px 45px;
 
@@ -149,23 +157,35 @@ button.btn.btn-outline-primary.btn-lg:hover {
 }
 
 .youtube {
-    margin: 2rem auto;
+    margin: 4rem auto;
     padding: 0 10px;
     width: 100%;
 }
-.youtubetitle {
+.youtube-title {
     margin: 3rem auto;
     width: 75%;
 }
 
-.youtubetitle h2 {
+.youtube-title span {
+    font-size: 1.8rem;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.youtube-title b {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.youtube-title h2 {
     font-weight: 100;
     text-transform: uppercase;
     font-size: 2.5rem;
     margin-top: 2rem;
 }
 .youtube-video {
-    width: 55%;
+    width: 50%;
     margin: 0 auto;
 }
 
@@ -200,34 +220,38 @@ small {
 }
 
 .link-gerado {
-    border: 1px solid #eee;
-    border-radius: 10px;
-    padding: 10px;
-    margin: 40px 0;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
 }
 
 img.icon-ok {
     max-width: 3rem;
+    margin-top: -15px;
 }
 
 img.icone-link {
-    max-width: 2rem;
-    margin-right: 10px;
+    max-width: 3rem;
+    margin-right: 15px;
+    margin-top: -15px;
 }
 
 span.link {
-    font-size: 1rem;
+    font-size: 2rem;
     text-transform: uppercase;
-    color: rgb(255, 255, 255);
+    color: rgb(7, 7, 7);
 }
 
 .link-mensagem {
     margin: 40px 0;
+    color: #000000;
 }
 
 input#linkcopiar {
     border: none;
     width: 100%;
+    text-align: center;
+    font-size: 1.5rem;
 }
 
 .form-control {
@@ -237,13 +261,15 @@ input#linkcopiar {
     padding: 1rem 1rem;
     color: #ffffff;
     width: 100%;
+    font-size: 1.5rem;
 }
+
 
 .formulario {
 
     display: flex;
     flex-direction: column;
-    width: 55%;
+    width: 40%;
     margin: 0 auto;
 }
 
@@ -251,26 +277,120 @@ input#linkcopiar {
     max-width: 100%;
 }
 
-
+div#resultado {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #fff; 
+    border-radius: 15px;
+}
 
 @media screen and (max-width: 600px) {
     body {
-        background-color: #42524f;
-        color: Pink;
+        background-color: #47af50;
+        color: rgb(255, 255, 255);
         background-image: url(/images/bg-main-mobile.jpg);
         background-size: contain;
     }
 
-    .container {
-        max-width: 90%;
-    }
+    li {
+    list-style: none;
+    color: #ffffff;
+    font-size: 1rem;
+}
 
-    .title h1 {
-        color: #ffffff;
-        text-transform: uppercase;
-        font-size: 2rem;
-        font-weight: 900;
-        text-shadow: #0000003d 1px 1px 1px;
-    }
+.youtube-title b {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+
+small {
+    font-size: 0.85rem;
+    line-height: 1rem;
+    color: #ffffff;
+    text-align: center;
+}
+    
+.title h1 {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: 900;
+    text-shadow: #0000003d 1px 1px 1px;
+}
+
+.headline H1 {
+font-size: 2.5rem;
+font-weight: 100;
+text-transform: uppercase;
+color: #ffffff;
+}
+
+.title h2 {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: 900;
+    text-shadow: #0000003d 1px 1px 1px;
+}
+
+
+.headline {
+    background-image: none;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: top;
+    margin-top: 0;
+    overflow: auto;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.como-funciona {
+    margin: 20px auto;
+    max-width: 100%;
+}
+
+.youtube-title {
+    margin: 3rem auto;
+    width: 100%;
+}
+.youtube-title span {
+    font-size: 1.4rem;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.youtube-title h2 {
+    font-weight: 100;
+    text-transform: uppercase;
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+
+.youtube-video {
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    border-radius: .3rem;
+}
+
+div#resultado {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 15px;
+}
 
 }
