@@ -284,6 +284,15 @@ div#resultado {
     border-radius: 15px;
 }
 
+
+.footer {   
+    color: #fff;
+}
+
+.footer p {
+    color: #ffffff;
+    margin-top: 85px;
+}
 @media screen and (max-width: 600px) {
     body {
         background-color: #47af50;
@@ -330,7 +339,7 @@ color: #ffffff;
 .title h2 {
     color: #ffffff;
     text-transform: uppercase;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 900;
     text-shadow: #0000003d 1px 1px 1px;
 }
