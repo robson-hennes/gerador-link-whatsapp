@@ -1,0 +1,855 @@
+Synthesizing 10/10 solutions
+
+=======
+
+
+h3.como-funciona__title {
+    margin-top: 2%;
+    font-size: 1.5rem;
+}
+
+.venda-mais {
+    text-align: center;
+}
+
+.copy {
+    text-align: center;
+}
+
+.link-gerado {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+img.icon-ok {
+    max-width: 3rem;
+    margin-top: -15px;
+}
+
+img.icone-link {
+    max-width: 3rem;
+    margin-right: 15px;
+    margin-top: -15px;
+}
+
+span.link {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    color: rgb(7, 7, 7);
+}
+
+.link-mensagem {
+    margin: 20px 0;
+    color: #000000;
+}
+
+input#linkcopiar {
+    border: none;
+    width: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.form-control {
+    background-color: #00000073;
+    border: 2px solid #e1e0e0;
+    border-radius: 50px;
+    padding: 1rem 1rem;
+    color: #ffffff;
+    width: 100%;
+    font-size: 1.5rem;
+}
+
+.venda-mais {
+    text-align: center;
+}
+
+.copy {
+    text-align: center;
+}
+
+.link-gerado {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+img.icon-ok {
+    max-width: 3rem;
+    margin-top: -15px;
+}
+
+img.icone-link {
+    max-width: 3rem;
+    margin-right: 15px;
+    margin-top: -15px;
+
+=======
+
+
+.venda-mais {
+    text-align: center;
+}
+
+.copy {
+    text-align: center;
+}
+
+.link-gerado {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+img.icon-ok {
+    max-width: 3rem;
+    margin-top: -15px;
+}
+
+img.icone-link {
+    max-width: 3rem;
+    margin-right: 15px;
+    margin-top: -15px;
+}
+
+span.link {
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: rgb(7, 7, 7);
+}
+
+.link-mensagem {
+    margin: 40px 0;
+    color: #000000;
+}
+
+input#linkcopiar {
+    border: none;
+    width: 100%;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.form-control {
+    background-color: #00000073;
+    border: 2px solid #e1e0e0;
+    border-radius: 50px;
+    padding: 1rem 1rem;
+    color: #ffffff;
+    width: 100%;
+    font-size: 1rem;
+}
+
+.selo {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.selo img {
+    max-width: 100%;
+}
+
+.enviar {
+    margin: 2rem 0 0.5rem;
+    text-align: center;
+}
+
+.youtube {
+    margin: 4rem auto;
+    padding: 0 10px;
+    width: 100%;
+}
+
+.youtube-title {
+    margin: 3rem auto;
+    width: 100%;
+}
+
+.youtube-title span {
+    font-size: 1.5rem;
+    font-weight: 300;
+    color: #ffffff;
+
+=======
+
+
+h3.como-funciona__title {
+    margin-top: 2%;
+    font-size: 1.5rem;
+}
+
+small {
+    font-size: 0.9rem;
+    line-height: 1rem;
+    color: #ffffff;
+    text-align: center;
+}
+
+.venda-mais {
+    text-align: center;
+}
+
+.copy {
+    text-align: center;
+}
+
+.link-gerado {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+img.icone-link {
+    max-width: 2rem;
+    margin-right: 15px;
+    margin-top: -15px;
+}
+
+span.link {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    color: rgb(7, 7, 7);
+}
+
+.link-mensagem {
+    margin: 20px 0;
+    color: #000000;
+}
+
+input#linkcopiar {
+    border: none;
+    width: 100%;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.form-control {
+    background-color: #00000073;
+    border: 2px solid #e1e0e0;
+    border-radius: 50px;
+    padding: 1rem 1rem;
+    color: #ffffff;
+    width: 100%;
+    font-size: 1.5rem;
+}
+
+.selo img {
+    max-width: 100%;
+}
+
+div#resultado {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #fff; 
+    border-radius: 15px;
+}
+
+}
+
+@media screen and (max-width: 400px) {
+    body {
+        background-color: #47af50;
+        color: rgb(255, 255, 255);
+        background-image: url(/images/bg-main-mobile.jpg);
+        background-size: contain;
+    }
+
+    
+    .
+
+=======
+
+
+.youtube {
+    margin: 4rem auto;
+    padding: 0 10px;
+    width: 100%;
+}
+.youtube-title {
+    margin: 3rem auto;
+    width: 100%;
+}
+
+.youtube-title span {
+    font-size: 1.8rem;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.youtube-title b {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.youtube-title h2 {
+    font-weight: 100;
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    margin-top: 2rem;
+}
+.youtube-video {
+    width: 100%;
+}
+
+.enviar {
+    margin: 2rem 0 0.5rem;
+    text-align: center;
+}
+
+.como-funciona {
+    margin: 40px auto;
+    max-width: 100%;
+}
+
+h3.como-funciona__title {
+    margin-top: 2%;
+    font-size: 2.5rem;
+}
+
+small {
+    font-size: 1.1rem;
+    line-height: 1rem;
+    color: #ffffff;
+    text-align: center;
+}
+
+.venda-mais {
+    text-align: center;
+}
+
+.copy {
+    text-align: center;
+}
+
+.link-gerado {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+img.icon-ok {
+    max-width: 3rem;
+    margin-top: -15px;
+}
+
+img.icone-link {
+    max-width: 3rem;
+    margin-right: 15px;
+    margin-top: -15px;
+}
+
+span.link {
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: rgb(7, 7, 7);
+
+=======
+
+
+h3.como-funciona__title {
+    margin-top: 2%;
+    font-size: 1.5rem;
+}
+
+.youtube-title span {
+    font-size: 1rem;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.youtube-title b {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.youtube-title h2 {
+    font-weight: 100;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+
+.youtube-video {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.enviar {
+    margin: 2rem 0 0.5rem;
+    text-align: center;
+}
+
+.como-funciona {
+    margin: 40px auto;
+    max-width: 100%;
+}
+
+h3.como-funciona__title {
+    margin-top: 2%;
+    font-size: 1.5rem;
+}
+
+small {
+    font-size: 1rem;
+    line-height: 1rem;
+    color: #ffffff;
+    text-align: center;
+}
+
+.venda-mais {
+    text-align: center;
+}
+
+.copy {
+    text-align: center;
+}
+
+.link-gerado {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+img.icon-ok {
+    max-width: 3rem;
+    margin-top: -15px;
+}
+
+img.icone-link {
+    max-width: 3rem;
+    margin-right: 15px;
+    margin-top: -15px;
+}
+
+span.link {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    color: rgb(7, 7, 7);
+
+=======
+
+
+.youtube {
+    margin: 0 auto;
+    padding: 0 10px;
+    width: 100%;
+}
+
+.youtube-video {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.enviar {
+    margin: 2rem 0 0.5rem;
+    text-align: center;
+}
+
+.venda-mais {
+    text-align: center;
+}
+
+.copy {
+    text-align: center;
+}
+
+.link-gerado {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+img.icone-link {
+    max-width: 3rem;
+    margin-right: 15px;
+    margin-top: -15px;
+}
+
+.link-mensagem {
+    margin: 20px 0;
+    color: #000000;
+}
+
+.form-control {
+    background-color: #00000073;
+    border: 2px solid #e1e0e0;
+    border-radius: 50px;
+    padding: 1rem 1rem;
+    color: #ffffff;
+    width: 100%;
+    font-size: 1.5rem;
+}
+
+.selo {
+    margin: 0 auto;
+    width: 50%;
+}
+
+}
+
+@media screen and (min-width: 600px) {
+    .formulario {
+        display: flex;
+        flex-direction: column;
+        width: 40%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    body {
+        background-color: #47af50;
+        color: rgb(255, 255, 255);
+        background-image: url(/images/bg-main.jpg);
+        background-size: contain;
+    }
+
+    .title h1 {
+        color: #ffffff;
+        text-transform: uppercase;
+        font-size: 1rem;
+        font-weight: 900;
+        text-shadow: #0000003d 1px 1px 1px;
+    }
+
+    .headline
+
+=======
+
+
+.como-funciona h3.como-funciona__title {
+    margin-top: 0;
+    font-size: 1.5rem;
+}
+
+.enviar {
+    margin: 2rem 0 0.5rem;
+    text-align: center;
+}
+
+.enviar small {
+    font-size: 1rem;
+    line-height: 1rem;
+    color: #ffffff;
+    text-align: center;
+}
+
+.venda-mais {
+    text-align: center;
+}
+
+.copy {
+    text-align: center;
+}
+
+.link-gerado {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+.link-gerado img.icone-link {
+    max-width: 2rem;
+    margin-right: 15px;
+    margin-top: -15px;
+}
+
+.link-gerado b {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.link-gerado span.link {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    color: rgb(7, 7, 7);
+}
+
+.link-mensagem {
+    margin: 40px 0;
+    color: #000000;
+}
+
+input#linkcopiar {
+    border: none;
+    width: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.form-control {
+    background-color: #00000073;
+    border: 2px solid #e1e0e0;
+    border-radius: 50px;
+    padding: 1rem 1rem;
+    color: #ffffff;
+    width: 100%;
+    font-size: 1.5rem;
+}
+
+.selo {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.selo img {
+    max-width: 100%;
+
+=======
+
+
+.youtube-video {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.venda-mais {
+    text-align: center;
+}
+
+.copy {
+    text-align: center;
+}
+
+.link-gerado {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+img.icon-ok {
+    max-width: 3rem;
+    margin-top: -15px;
+}
+
+img.icone-link {
+    max-width: 3rem;
+    margin-right: 15px;
+    margin-top: -15px;
+}
+
+span.link {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    color: rgb(7, 7, 7);
+}
+
+.link-mensagem {
+    margin: 20px 0;
+    color: #000000;
+}
+
+input#linkcopiar {
+    border: none;
+    width: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.form-control {
+    background-color: #00000073;
+    border: 2px solid #e1e0e0;
+    border-radius: 50px;
+    padding: 1rem 1rem;
+    color: #ffffff;
+    width: 100%;
+    font-size: 1.5rem;
+}
+
+.selo {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.selo img {
+    max-width: 100%;
+}
+
+div#resultado {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #fff; 
+    border-radius: 15px;
+}
+
+.enviar {
+    margin: 2rem 0 0.5rem;
+    text-align: center;
+}
+
+.como-funciona {
+    margin: 20px auto;
+    max-width: 100%;
+
+=======
+
+
+.como-funciona h3.como-funciona__title {
+    margin-top: 2%;
+    font-size: 1.5rem;
+}
+
+.youtube {
+    margin: 4rem auto;
+    padding: 0 10px;
+    width: 100%;
+}
+
+.youtube-title {
+    margin: 3rem auto;
+    width: 75%;
+}
+
+.youtube-title span {
+    font-size: 1.8rem;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.youtube-title b {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.youtube-title h2 {
+    font-weight: 100;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+
+.youtube-video {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.enviar {
+    margin: 2rem 0 0.5rem;
+    text-align: center;
+}
+
+.venda-mais {
+    text-align: center;
+}
+
+.copy {
+    text-align: center;
+}
+
+.link-gerado {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+img.icon-ok {
+    max-width: 3rem;
+    margin-top: -15px;
+}
+
+img.icone-link {
+    max-width: 3rem;
+    margin-right: 15px;
+    margin-top: -15px;
+}
+
+span.link {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    color: rgb(7, 7, 7);
+}
+
+.link-mensagem {
+    margin: 40px 0;
+    color: #000000;
+
+=======
+
+
+.como-funciona h2 {
+    font-size: 1.5rem;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+.como-funciona p {
+    font-size: 1.1rem;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.youtube-title span {
+    font-size: 1rem;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.youtube-title b {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.youtube-title h2 {
+    font-weight: 100;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+
+.youtube-video {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.enviar {
+    margin: 1rem 0 0.5rem;
+    text-align: center;
+}
+
+.venda-mais {
+    text-align: center;
+}
+
+.copy {
+    text-align: center;
+}
+
+.link-gerado {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+img.icon-ok {
+    max-width: 1rem;
+    margin-top: -15px;
+}
+
+img.icone-link {
+    max-width: 1rem;
+    margin-right: 15px;
+    margin-top: -15px;
+}
+
+span.link {
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: rgb(7, 7, 7);
+}
+
+.link-mensagem {
+    margin: 20px 0;
+    color: #000000;
+}
+
+input#linkcopiar {
+    border: none;
+    width: 100%;
+    text-align: center;
+    font-size: 1rem;
